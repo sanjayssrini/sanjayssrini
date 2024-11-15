@@ -30,13 +30,16 @@ I've participated in multiple hackathons, including a recent 36-hour event with 
 - **Mentorship** with AWS Cloud Clubs, guiding students through introductory cloud computing concepts.
 - **Hackathon Awards**: I’ve had the opportunity to participate and excel in hackathons focused on sustainability and social good.
 
+## Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/sanjayssrini?theme=forest&font=IBM%20Plex%20Sans&ext=contest)
+
 ## 💡 Fun Facts
 - I’m an 18-year-old with a knack for building projects with a preference for explicit, simple code.
 - I enjoy protein shakes with a preferred protein content of 6-7g per serving.
 - I’m also a self-learner, upgrading my skills and tools, like upgrading Python from 3.12 to 3.15 recently!
 
 ## 📫 How to Reach Me
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:sanjaysrinivasan095@gmail.com)
+<a href="mailto:sanjaysrinivasan095@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sanjays12)
 
 Thank you for visiting my profile! Feel free to connect or reach out if you share similar interests, need a team member for an open-source project, or have ideas you’d like to brainstorm.
