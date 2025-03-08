@@ -33,10 +33,6 @@ I've participated in multiple hackathons, including a recent 36-hour event with 
 ## Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sanjayssrini?theme=forest&font=IBM%20Plex%20Sans&ext=contest)
 
-## 💡 Fun Facts
-- I’m an 18-year-old with a knack for building projects with a preference for explicit, simple code.
-- I enjoy protein shakes with a preferred protein content of 6-7g per serving.
-- I’m also a self-learner, upgrading my skills and tools, like upgrading Python from 3.12 to 3.15 recently!
 
 ## 📫 How to Reach Me
 <a href="mailto:sanjaysrinivasan095@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
