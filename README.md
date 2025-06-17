@@ -1,7 +1,7 @@
 ## Hey There 👋 I'm Sanjay...
 ### A Tech Enthusiast...
 ---
-I'm a sophomore with a passion for programming and open-source contributions. Currently, I'm exploring various domains in computer science, with a strong focus on C programming, Java, Python , database management, and cloud computing. 
+I'm a Pre-Final Year student with a passion for programming and open-source contributions. Currently, I'm exploring various domains in computer science, with a strong focus on C programming, Java, Python , database management, and cloud computing. 
 
 ## 🌱 Current Learning Path
 - **Data Structures and Algorithms (DSA)**: I'm diving deep into DSA in Python, Java and C, simplifying complex concepts to learn them as a 13-year-old would. I value clean, efficient code, often preferring explicit if-else statements for readability.
